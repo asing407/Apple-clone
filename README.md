@@ -3,16 +3,13 @@
 Welcome to the Apple Vision Pro Clone project! This project aimed replicate the design and functionality of Apple's Vision Pro webpage. It provides a platform where users can explore the features, specifications, and details of Apple Vision Pro product.
 
 
-
-
-https://github.com/asing407/AppleVisionPro-clone/assets/144586980/0c30e30d-c007-4a06-b106-736a2da38b57
-
+https://github.com/asing407/AppleVisionPro-clone/assets/144586980/6ef5bb79-80f4-420a-ac2b-869b75b0330d
 
 
 ## Features
 
-- **Product Showcase**: View a curated selection of Apple products with detailed descriptions and high-quality images.
-- **Product Details**: Access comprehensive information about each product, including specifications, pricing, and availability.
+- **Product Showcase**: Showcase of Apple Vision Pro with detailed descriptions and high-quality images.
+- **Product Details**: Access comprehensive information about product, including specifications, pricing, and availability.
 - **Responsive Design**: The webpage is designed to adapt to different screen sizes, ensuring a seamless user experience across devices.
 - **Search Functionality**: Easily find specific products using the search feature.
 - **User-Friendly Interface**: Intuitive navigation and clean layout make it easy for users to browse and find the information they need.
